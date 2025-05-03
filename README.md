@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Asante Clinton Kwabena</h1>
 
 <p align="center">
-  <em>Frontend Developer | ALX Software Engineering Learner | Lifelong Learner</em>
+  <em>Frontend Developer | ALX Software Engineering Student | Lifelong Learner</em>
 </p>
 
 ---
