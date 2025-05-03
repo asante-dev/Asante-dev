@@ -1,4 +1,4 @@
-
+***
 <h1 align="center">Hi there 👋, I'm Asante Clinton Kwabena</h1>
 
 <p align="center">
@@ -39,7 +39,6 @@ That’s why I’m especially interested in working on:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
 ---
 
 ## 🌱 Currently Learning
